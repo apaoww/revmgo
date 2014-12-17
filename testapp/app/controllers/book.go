@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/jgraham909/revmgo"
-	"github.com/jgraham909/revmgo/testapp/app/models"
+	"github.com/apaoww/revmgo"
+	"github.com/apaoww/revmgo/testapp/app/models"
 	"github.com/revel/revel"
 )
 

@@ -30,7 +30,7 @@ Similarly for your controllers init() function you must add the `revmgo.Controll
 
     package controllers
 
-    import "github.com/jgraham909/revmgo"
+    import "github.com/apaoww/revmgo"
 
     func init() {
         revmgo.ControllerInit()
@@ -44,7 +44,7 @@ MongoController.
 
 Add the following import line in source files that will embed MongoController.
 
-     "github.com/jgraham909/revmgo"
+     "github.com/apaoww/revmgo"
 
 Embed the MongoController on your custom controller;
 

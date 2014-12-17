@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/jgraham909/revmgo"
+	"github.com/apaoww/revmgo"
 	"github.com/revel/revel"
 )
 
